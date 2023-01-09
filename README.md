@@ -8,5 +8,5 @@
 ### Também estudo Inglês 😄!  Veja minhas estatisticas no Duolingo.
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/wevertonsa4)
 #
-![Saluse GitHub stats](https://github-readme-stats.vercel.app/api?username=saluse&show_icons=true&theme=dark&count_private=true)
+![Saluse GitHub stats](https://github-readme-stats.vercel.app/api?username=saluse&show_icons=true&theme=dark&count_private=true&hide=prs,issues)
 

@@ -7,3 +7,5 @@
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://cursos.alura.com.br/user/w-seixas/fullCertificate/f60abe83e86964c3e30ba20fa7dc2709)
 ### Também estudo Inglês 😄!  Veja minhas estatisticas no Duolingo.
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/wevertonsa4)
+#
+![Saluse GitHub stats](https://github-readme-stats.vercel.app/api?username=saluse&show_icons=true)
